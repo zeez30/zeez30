@@ -8,7 +8,7 @@ MEng Software Engineering Student · Scotland
 
 ### About
 
-Final-year MEng Software Engineering student at Edinburgh Napier University, with industry experience as a Software Engineering Intern at North Oil Company in Qatar.
+Final-year MEng Software Engineering student at Edinburgh Napier University, with industry experience as a Digital Assets Intern at North Oil Company in Qatar.
 
 Experience across web, mobile and full-stack development, with a particular interest in building thoughtful, well-designed software.
 
