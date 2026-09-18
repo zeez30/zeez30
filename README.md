@@ -1,16 +1,23 @@
-## Hi there 👋
+<h1 align="left">Syeda Zaidi</h1>
 
-<!--
-**zeez30/zeez30** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+MEng Software Engineering Student · Scotland
 
-Here are some ideas to get you started:
+**Software Development · Web · Mobile**
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+### About
+
+Final-year MEng Software Engineering student at Edinburgh Napier University, with industry experience as a Software Engineering Intern at North Oil Company in Qatar.
+
+Experience across web, mobile and full-stack development, with a particular interest in building thoughtful, well-designed software.
+
+### Technologies
+
+TypeScript · JavaScript · React · Java · Android  
+Python · C# · ASP.NET Core · SQL  
+HTML · CSS · Git
+
+### Elsewhere
+
+[Portfolio](https://portfolio.zaidi.dev) · [LinkedIn](https://www.linkedin.com/in/syeda-zaidi-16b3a0252/) · [Email](mailto:syeda@zaidi.dev)
